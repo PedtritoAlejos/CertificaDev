@@ -1,4 +1,4 @@
-/*valida si las contraceñas coinsiden*/
+/*valida si las contraceñas coinciden*/
 function validarclave(x3) {
     var x1;
     var x2;
